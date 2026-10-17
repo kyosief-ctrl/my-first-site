@@ -1,1 +1,93 @@
-# my-first-site
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Kidus Yosief</title>
+</head>
+<body>
+    <h1>About Kidus Yosief</h1>
+    <p>Welcome to my personal webpage!</p>
+    <nav>
+        <ul>
+            <li><a href="about">About Me</a>a></li>
+        <li><a href="#interest":>My Interests</a></li>
+        <li><a href="goals">My Goals</a>a></li><li>
+
+
+        </ul>
+    </nav>
+
+    <main>
+        <section id="about"
+        ></h2>About me</h2>
+
+    <p>
+        My name is Kidus Yosief. I enjoy learning new skills, 
+        solving problems, and helping others. I am interested
+        in technology and barbering.
+    </p>
+
+    <img
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2K2AH1_-8-iJnjkGJiTyPvKqOFLfTrtNZed8QIQMI_A&s=10"
+    alt="Barber working with tools in a barbershop"
+    width="400"
+
+   ></section>
+
+    <section id="interest">
+    <h2>My Interest</h2><h2>
+        <article>
+            <h3> Technology and IT </h3>
+            <p>
+                I enjoy learning about computers,trobshooting 
+                technical problems, and helping people with technology. 
+            </p>
+        </article>
+
+        <article>
+            <h3>Barbering and Service</h3>
+            <p>
+                I enjoy barbering and want to use my skills to Service
+                my community. I hope to provide free haircuts to people
+                people who need them. 
+            </p>
+        </article>
+
+        <h3>Things I enjoy</h3>
+        <ul>
+            <li>Learning new technology skills</li>
+            <li>Helping people solve problems</li>
+            </li>Cutting hair and learning barbering techniques</li>
+            <li>Serving my community</li>
+        </ul>
+    <section>
+
+    </section id="goals">
+        <h2>My Goals</h2>
+        <p>
+            My goal is to build a career in IT support while 
+            continuing to grow as a barber. I want to keep learning, 
+            work hard, and make my family proud. 
+        <p> 
+
+        <h3>My plan for Succes</h3>
+        <ol>
+            <li>Continue my education.</li>
+            <li>Improve my technical support skills.</li>
+            <li>Develop my barbering skills.</li>
+            <li>Use my skills to help others.</li>
+
+        </ol>
+    </section>
+</main>
+
+<footer>
+    <p>Created by Kidus Yosief</p>
+</footer>
+
+
+
+
+</body>
+</html># my-first-site
