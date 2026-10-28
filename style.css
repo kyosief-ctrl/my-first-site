@@ -5,7 +5,9 @@
 
 body {
   margin: 0;
-  padding: 16px;
+  background-color: #f0f7f7;
+  color: #243447;
+  padding: 20px;
   font-family: Arial, sans-serif;
   line-height: 1.6;
 }
@@ -44,6 +46,3 @@ body {
     padding: 8px;
   }
 }
-
-    
-
