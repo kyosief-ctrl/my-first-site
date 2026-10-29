@@ -43,8 +43,14 @@ p {
     border-radius: 5px;
 }
 .columns {
+    background-color: green;
     display: flex;
     gap: 20px;
+}
+@media (max-width: 768px) {
+    .columns {
+        background-color: Red; 
+    }
 }
 /* Navigation */
 nav a {
