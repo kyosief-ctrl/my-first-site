@@ -64,6 +64,16 @@ p {
         font-size: 14px;
     }
 }
+@media (min-width: 1200px) {
+    .columns {
+        background-color: Yellow;
+        display: flex;
+        gap: 30px;
+    }
+    p {
+        font-size: 16px;
+    }
+}
 /* Navigation */
 nav a {
     color: #ffffff;
