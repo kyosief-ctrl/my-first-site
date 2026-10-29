@@ -44,12 +44,18 @@ p {
 }
 .columns {
     background-color: green;
-    gap: 20px;
 }
 @media (min-width: 320px) {
     .columns {
         background-color: Red;
         display: flex;
+    }
+}
+@media (min-width: 768px) {
+    .columns {
+        background-color: Blue;
+        display: flex;
+        gap: 20px;
     }
 }
 /* Navigation */
