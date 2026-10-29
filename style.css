@@ -44,10 +44,10 @@ p {
 }
 .columns {
     background-color: green;
-    display: flex;
+    display: flex; 
     gap: 20px;
 }
-@media (max-width: 768px) {
+@media (min-width: 768px) {
     .columns {
         background-color: Red; 
     }
