@@ -44,12 +44,12 @@ p {
 }
 .columns {
     background-color: green;
-    display: flex; 
     gap: 20px;
 }
 @media (min-width: 768px) {
     .columns {
-        background-color: Red; 
+        background-color: Red;
+        display: flex;
     }
 }
 /* Navigation */
