@@ -42,6 +42,10 @@ p {
     border-left: 5px solid #159a91;
     border-radius: 5px;
 }
+.columns {
+    display: flex;
+    gap: 20px;
+}
 /* Navigation */
 nav a {
     color: #ffffff;
@@ -101,11 +105,7 @@ footer {
   overflow-wrap: anywhere;
 }
 
-@media (min-width: 768px)
-.projects{
-  grid-template-columns: 1fr 1fr;
-}
-}
+
 
 /* Tablet and mobile layout */
 @media (max-width: 768px) {
