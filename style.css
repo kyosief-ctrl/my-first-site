@@ -101,6 +101,12 @@ footer {
   overflow-wrap: anywhere;
 }
 
+@media (min-width: 768px)
+.projects{
+  grid-template-columns: 1fr 1fr;
+}
+}
+
 /* Tablet and mobile layout */
 @media (max-width: 768px) {
   .project-grid {
