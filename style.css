@@ -46,7 +46,7 @@ p {
     background-color: green;
     gap: 20px;
 }
-@media (min-width: 768px) {
+@media (min-width: 320px) {
     .columns {
         background-color: Red;
         display: flex;
