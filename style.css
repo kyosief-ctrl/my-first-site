@@ -31,7 +31,7 @@ p {
 
 #hero {
     background-color: #123456;
-    color: #000000;
+    color: #ffffff;
     padding: 25px;
     margin-bottom: 25px;
     border: 3px solid #38b2ac;
@@ -121,7 +121,7 @@ main a {
 /* Footer */
 footer {
     background-color: #123456;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 20px;
     margin-top: 25px;
